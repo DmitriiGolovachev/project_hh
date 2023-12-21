@@ -11,8 +11,9 @@
 ***
 ### Описание проекта
 
-Дан [датасет]([https://drive.google.com/file/d/1NIfRRjPfA-LXp8VGHug7-P1_tekF0NUs/](https://drive.google.com/file/d/1--2HC7AP2_EgDhVDjb_pfue9RMOMxBO0/view?usp=sharing) "(доступ открыт)"), содержащий данные соискателей работы с сайта поиска вакансий hh.ru
+Дан [датасет]([https://drive.google.com/file/d/1NIfRRjPfA-LXp8VGHug7-P1_tekF0NUs/](https://drive.google.com/file/d/1--2HC7AP2_EgDhVDjb_pfue9RMOMxBO0/view?usp=sharing), содержащий данные соискателей работы с сайта поиска вакансий hh.ru
 Требуется выполнить предобработку и анализ данных для дальнейшего построения модели машинного обучения, предсказывающей уровень зарплатных ожиданий соискателя, по данным из его резюме.
+
 :arrow_up:[к оглавлению](#Оглавление)
 
 ***
